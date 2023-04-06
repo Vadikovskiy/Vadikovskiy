@@ -1,4 +1,4 @@
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-Telegram-URL">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" 
     alt="Telegram Badge"/>
@@ -13,4 +13,6 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=vadikovskiy&style=flat-square&color=blue" alt=""/>
+</div>
