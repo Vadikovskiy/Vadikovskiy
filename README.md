@@ -20,3 +20,9 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=vadikovskiy&style=flat-square&color=blue" alt=""/>
 </div>
+
+---
+
+### 👨‍💻 About me:
++ 👷 I work as a designer
++ 💪 Student of vadim ksendzov's qa-courses
