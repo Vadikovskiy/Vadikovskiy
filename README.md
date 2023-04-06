@@ -1,13 +1,13 @@
 <div id="badges" align="center">
-  <a href="your-Telegram-URL">
+  <a href="https://web.telegram.org/z/">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" 
     alt="Telegram Badge"/>
   </a>
-  <a href="your-Instagram-URL">
+  <a href="https://www.instagram.com/zagoruykovladislav/">
     <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white" 
     alt="Instagram Badge"/>
   </a>
-  <a href="your-Whatsapp-URL">
+  <a href="https://wa.me/89043422005">
     <img src="https://img.shields.io/badge/Whatsapp-blue?logo=whatsapp&logoColor=white" 
     alt="Whatsapp Badge"/>
   </a>
