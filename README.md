@@ -2,11 +2,6 @@
   Hey folks  &#128075
 </h1>
 
-<h1>
-  My name is Vladislav, I'm a self-study manual software testing. In the future, I want to learn autotests in Python
-</h1>
-
-
 <div id="badges" align="center">
   <a href="https://web.telegram.org/z/">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" 
