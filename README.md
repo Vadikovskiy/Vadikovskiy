@@ -25,4 +25,4 @@
 
 ### 👨‍💻 About me:
 + 👷 I work as a designer
-+ 💪 Student of vadim ksendzov's qa-courses
++ 💪 Student of Vadim Ksendzov's QA-courses
