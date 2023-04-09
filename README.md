@@ -26,3 +26,16 @@
 ### 👨‍💻 About me:
 + 👷 I work as a designer
 + 💪 Student of Vadim Ksendzov's QA-courses
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+---
+
+### :fire: My Stats :
+
+
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vladislavzagoruyko&theme=dark&hide_border=true)](https://git.io/streak-stats)
