@@ -11,9 +11,9 @@
     <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white" 
     alt="Instagram Badge"/>
   </a>
-  <a href="https://wa.me/89043422005">
-    <img src="https://img.shields.io/badge/Whatsapp-blue?logo=whatsapp&logoColor=white" 
-    alt="Whatsapp Badge"/>
+  <a href="https://www.linkedin.com/in/vladislav-zagoruyko-39521a273/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
+    alt="LinkedIn Badge"/>
   </a>
 </div>
 
