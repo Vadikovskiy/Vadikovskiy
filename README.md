@@ -4,16 +4,13 @@
 
 <div id="badges" align="center">
   <a href="https://web.telegram.org/z/">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" 
-    alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.instagram.com/zagoruykovladislav/">
-    <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white" 
-    alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/vladislav-zagoruyko-39521a273/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
-    alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
